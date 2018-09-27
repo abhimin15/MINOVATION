@@ -115,7 +115,7 @@ EMAIL_HOST = 'smtp.gmail.com'
 EMAIL_USE_TLS = True
 EMAIL_PORT = 587
 EMAIL_HOST_USER = 'events.minovation@gmail.com'
-EMAIL_HOST_PASSWORD = 'minovation18'
+EMAIL_HOST_PASSWORD = '***********'
 
 AUTHENTICATION_BACKENDS = (
     'django.contrib.auth.backends.ModelBackend',
